@@ -4,7 +4,6 @@ permalink: /about/
 layout: page
 ---
 ![My photo](/assets/avatar.jpg)
-[My GitHub](https://github.com/luciferAT02)
 
 Hi there! I'm Mahiguhappriya, a Research Trainee at Vainu Bappu Observatory, Indian Institute of Astrophysics, Kavalur, India.  
 I'm passionate about observational astronomy, outreach, and science communication.
