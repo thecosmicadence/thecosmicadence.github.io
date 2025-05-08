@@ -1,8 +1,13 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
+title: About
+permalink: /about/
+layout: page
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Hi there! I'm Mahi, a research trainee at Vainu Bappu Observatory.  
+I'm passionate about observational astronomy, outreach, and science communication.
+
+This website is my digital garden — a place to share insights, projects, and thoughts.
+
+Feel free to explore 🌌
+
