@@ -6,7 +6,7 @@ layout: page
 ![My photo](/assets/avatar.jpg)
 [My GitHub](https://github.com/luciferAT02)
 
-Hi there! I'm Mahi, a research trainee at Vainu Bappu Observatory.  
+Hi there! I'm Mahiguhappriya, a Research Trainee at Vainu Bappu Observatory, Indian Institute of Astrophysics, Kavalur, India.  
 I'm passionate about observational astronomy, outreach, and science communication.
 
 This website is my digital garden — a place to share insights, projects, and thoughts.
