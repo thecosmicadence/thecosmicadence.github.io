@@ -3,7 +3,7 @@ title: About
 permalink: /about/
 layout: page
 ---
-<p align="center">
+<p>
   <img src="/assets/avatar.jpg" alt="Me, casually posing on the catwalk of Asia's largest telescope (DOT, ARIES, Devasthal)." width="150"/>
 </p>
 
@@ -18,5 +18,7 @@ Hi there! I'm Mahiguhappriya, a Research Trainee at Vainu Bappu Observatory, Ind
 This website is my digital garden — a place to share insights, projects, and thoughts. I strongly believe that learning science is to spread science and my words attempt to do at least a teeny-tiny bit of it every time. I hope you have a great time over here!🌌
 
 Cheers,
+
 MGP
+
 (Mahiguhappriya XD)
