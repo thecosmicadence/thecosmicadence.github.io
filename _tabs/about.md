@@ -2,6 +2,7 @@
 title: About
 permalink: /about/
 layout: page
+order: 1
 ---
 <p>
   <img src="/assets/avatar.jpg" alt="Me, casually posing on the catwalk of Asia's largest telescope (DOT, ARIES, Devasthal)." width="150"/>
