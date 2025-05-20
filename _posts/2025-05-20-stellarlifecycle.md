@@ -5,5 +5,5 @@ updated: 2025-05-20 11:21:00 +0530
 categories: ["Blogs", "Stellar Astrophysics"]
 tags: ["star"]  
 author: "0208"   
-description: "Short summary of the post. Will add soon."
+description: "Short summary of the post. Will add soon. Very soon."
 ---
