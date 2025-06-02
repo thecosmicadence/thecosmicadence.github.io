@@ -1,0 +1,19 @@
+@import "colors";
+@import "sizes";
+
+// Drop cap for first paragraph
+.post-content {
+  > p:first-of-type::first-letter {
+    font-size: 5.5em;
+    float: left;
+    line-height: 0.75;
+    margin: 0.1em 0.15em 0 0;
+    font-family: var(--ff-serif);
+    font-weight: bold;
+    color: var(--heading-color);
+    
+    @media (max-width: 768px) {
+      font-size: 4em;
+    }
+  }
+}
