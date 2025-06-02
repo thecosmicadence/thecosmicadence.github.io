@@ -7,6 +7,20 @@ tags: ["stars", "astronomy", "supernova", "nebula"]
 author: 0208   
 description: "In 1054 AD, a mysterious 'guest star' blazed in Taurus, outshining the daylight for months. Centuries later, astronomers unraveled its violent truth: not a celestial visitor, but the death scream of a star. Let’s explore this cosmic cataclysm—and how its corpse still haunts the night sky."
 ---
+
+<style>
+  /* Force drop cap */
+  #post-wrapper .post-content > p:first-of-type::first-letter {
+    font-size: 5.5em !important;
+    float: left;
+    line-height: 0.75;
+    margin: 0.1em 0.15em 0 0;
+    font-family: Georgia, serif;
+    font-weight: bold;
+    color: inherit;
+  }
+</style>
+
 Ever since man turned his gaze skyward, he had been captivated by that cosmic tapestry. The night sky never failed to entertain him – be it the occasional cosmic fireworks or just the steady twinkle of stars. He had more time to stare at the heavens – using what he observed to navigate, farm and mark seasons. But the modern man is so busy keeping pace that he rarely looks up. Is he happier chasing deadlines? Perhaps, but little does he realise that such joy is a temporary distraction from reality. 
 
 > **_“The price of chasing deadlines is often paid in the currency of life itself._”**                                                                        
