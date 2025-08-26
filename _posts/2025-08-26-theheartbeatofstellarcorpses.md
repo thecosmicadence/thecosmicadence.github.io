@@ -10,15 +10,6 @@ description: "In 1967, astronomer Jocelyn Bell detected strange but periodic sig
 
 ---
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-YXF48MGMMY"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-YXF48MGMMY');
-</script>
 
 <style>
   /* Force drop cap */
@@ -64,18 +55,3 @@ You have guessed it right! The **_‘guest star’_** of 1054 AD was nothing but
 
 You may wonder, what is so _beautiful_ about a corpse? I will let you decide yourselves in my upcoming blog. 
 
-<script src="https://giscus.app/client.js"
-        data-repo="thecosmicadence/thecosmicadence.github.io"
-        data-repo-id="R_kgDOOmONmg"
-        data-category="General"
-        data-category-id="DIC_kwDOOmONms4CumjP"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="top"
-        data-theme="dark_high_contrast"
-        data-lang="en"
-        crossorigin="anonymous"
-        async>
-</script>
