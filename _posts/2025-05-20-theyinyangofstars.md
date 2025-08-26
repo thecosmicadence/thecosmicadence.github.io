@@ -5,6 +5,7 @@ updated: 2025-06-02 09:27:00 +0530
 categories: ["Blogs", "Stellar Tales"]
 tags: ["stars", "astronomy", "supernova", "nebula"]  
 pin: true
+layout: post
 author: 0208   
 description: "In 1054 AD, a mysterious 'guest star' blazed in Taurus, outshining the daylight for months. Centuries later, astronomers unraveled its violent truth: not a celestial visitor, but the death scream of a star. Let’s explore this cosmic cataclysm—and how its corpse still haunts the night sky."
 
