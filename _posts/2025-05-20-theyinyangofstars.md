@@ -9,16 +9,6 @@ description: "In 1054 AD, a mysterious 'guest star' blazed in Taurus, outshining
 
 ---
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-YXF48MGMMY"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-YXF48MGMMY');
-</script>
-
 <style>
   /* Force drop cap */
   #post-wrapper .post-content > p:first-of-type::first-letter {
