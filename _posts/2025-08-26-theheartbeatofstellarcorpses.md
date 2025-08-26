@@ -1,7 +1,7 @@
 ---
 title: "The Heartbeat of Stellar Corpses"
 date: 2025-08-26 10:36:00 +0530
-updated: 2025-06-02 09:27:00 +0530
+updated: 2025-08-10 12:34:00 +0530
 categories: ["Blogs", "Stellar Tales"]
 tags: ["neutron stars", "astronomy", "pulsars", "betelgeuse", "stellar remnants"]  
 author: 0208   
