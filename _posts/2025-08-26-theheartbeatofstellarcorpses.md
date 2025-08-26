@@ -10,6 +10,16 @@ description: "In 1967, astronomer Jocelyn Bell detected strange but periodic sig
 
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YXF48MGMMY"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-YXF48MGMMY');
+</script>
+
 <style>
   /* Force drop cap */
   #post-wrapper .post-content > p:first-of-type::first-letter {
