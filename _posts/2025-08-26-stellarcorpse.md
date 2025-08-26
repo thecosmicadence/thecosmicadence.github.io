@@ -2,7 +2,7 @@
 title: "The Heartbeat of Stellar Corpses"
 date: 2025-08-26 10:36:00 +0530
 updated: 2025-06-02 09:27:00 +0530
-categories: ["Blogs", "Stellar Astrophysics"]
+categories: ["Blogs", "Stellar Tales"]
 tags: ["neutron stars", "astronomy", "pulsars", "betelgeuse", "stellar remnants"]  
 author: 0208   
 description: "In 1967, astronomer Jocelyn Bell detected strange but periodic signals from outer space, briefly mistaking them for extraterrestrial life. She jokingly nicknamed the source ‘Little Green Men’ (LGM-1). These mysterious signals were the first discovered pulsars—cosmic “heartbeats” of stellar corpses."
