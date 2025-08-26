@@ -64,3 +64,19 @@ _Pictorial description of the stellar life cycle. Image credits: [NASA Webb](htt
 You have guessed it right! The **_‘guest star’_** of 1054 AD was nothing but a supernova and what is still visible – the crab nebula – is a supernova remnant. But hey, is that all to the life of a star? Certainly not. Nature is yet to reveal its most beautiful creations to the observers. For sun-like stars, the shed-off layer becomes an expanding shell of glowing gas called a _planetary nebula_ (named for their round, planet-like appearance in early telescopes) leaving just the core which could not fuse carbon into much heavier elements. While massive stars leave behind their remnants– like that of the crab nebula– and an incredibly dense, collapsed core. And yes, one day the crab nebula could disappear from its sight too, just like its parent star. Another fleeting wonder in the cosmic dance, yet what would remain is a beautiful and equally interesting creation of mother nature : a **_Pulsar_**!
 
 You may wonder, what is so _beautiful_ about a corpse? I will let you decide yourselves in my upcoming blog. 
+
+<script src="https://giscus.app/client.js"
+        data-repo="thecosmicadence/thecosmicadence.github.io"
+        data-repo-id="R_kgDOOmONmg"
+        data-category="General"
+        data-category-id="DIC_kwDOOmONms4CumjP"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="dark_high_contrast"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
