@@ -183,12 +183,22 @@ defaults:
       path: _drafts
     values:
       comments: false
+      toc: false
+      layout: post
   - scope:
       path: ""
       type: tabs # see `site.collections`
     values:
       layout: page
       permalink: /:title/
+  - scope:
+      path: ""
+      type: journal
+    values:
+      layout: journal
+      comments: false
+      toc: false
+      permalink: /journal/:year/:month/:day/:title/
 
 sass:
   sass_dir: assets/css 
