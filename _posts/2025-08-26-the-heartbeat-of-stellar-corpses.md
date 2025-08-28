@@ -40,8 +40,6 @@ It wasn’t until the early twentieth century that astronomers, studying the ste
 
 > First of all, it is not a ‘guest’ star. So… what was this ‘guest’ star, if not a star that suddenly popped into existence? To answer this, we must understand what any star undergoes throughout its lifetime. (Yes, stars don’t just stay around forever)
 
-![A High-Resolution Image of Crab Nebula](/assets/images/crab.jpg)
-_An infrared image of Crab nebula obtained by the James Webb Telescope. Image Credits: [NASA Webb](https://esawebb.org/images/weic2417a/)_
 
 The story of a star begins in a hot, dense cloud of gas (mainly Hydrogen) and dust called the _star-forming nebula_. Gravity brings them together as tiny chunks of matter and a baby star _(protostar)_ is born! When its core becomes hot and dense enough, [nuclear fusion](https://www.iaea.org/newscenter/news/what-is-nuclear-fusion) ignites, converting hydrogen into helium. _Why do we need fusion?_ Because for the star to sustain itself against the relentless pull of gravity there must be an equal but opposite force to counteract it. Nuclear fusion releases an immense amount of energy outward to balance the inward gravitational pull. 
 
