@@ -1,0 +1,12 @@
+---
+layout: default
+title: My Journal
+---
+<h1>My Journal</h1>
+<ul>
+  {% for entry in site.journal %}
+    <li>
+      <a href="{{ entry.url }}">{{ entry.title }}</a> - {{ entry.date | date: "%B %d, %Y" }}
+    </li>
+  {% endfor %}
+</ul>

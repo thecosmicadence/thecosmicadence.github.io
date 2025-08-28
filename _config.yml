@@ -167,6 +167,9 @@ collections:
   tabs:
     output: true
     sort_by: order
+  journal:
+    output: true
+    permalink: /journal/:year/:month/:day/:title/
 
 defaults:
   - scope:
@@ -199,7 +202,7 @@ defaults:
       comments: false
       toc: false
       permalink: /journal/:year/:month/:day/:title/
-
+      
 sass:
   sass_dir: assets/css 
   style: compressed
