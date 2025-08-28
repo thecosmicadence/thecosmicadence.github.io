@@ -4,7 +4,7 @@ date: 2025-05-20 10:26:00 +0530
 updated: 2025-06-02 09:27:00 +0530
 categories: ["Blogs", "Stellar Tales"]
 layout: post
-permalink: /blogs/stellar-tales/theyinyangofstars
+permalink: /blogs/stellar-tales/the-yin-yang-of-stars/
 pin: true
 tags: ["stars", "astronomy", "supernova", "nebula"]  
 author: 0208   

@@ -34,9 +34,6 @@ Death is an inevitable part of nature—often feared as life’s most painful ph
 
 In 1054 AD, Chinese astronomers recorded a **_‘guest star’_** in the Taurus constellation that shone so brightly it was visible by day for months. Similar observations had been recorded by the stargazers of Native America, Japan and Arab of that time. For centuries, the true nature of this event went unnoticed. Only in 1844 when [Charles Messier](https://en.wikipedia.org/wiki/Charles_Messier) set out to hunt for comets did he find a strange object in Taurus, mistaking it for [Halley’s comet](https://science.nasa.gov/solar-system/comets/1p-halley/) at first. But since it was a hazy patch of light that was not moving, he started cataloguing it into a separate list along with other similar objects. This object was hence known as **_Messier 1_** (M1) – the first object of Messier’s catalogue.
 
-![A goofy picture of Charles Messier](assets/images/messier.jpg)
-_That's Charles Messier for y'all. Image Credits: [Nebula Photos](https://www.youtube.com/watch?v=_e3stRiqfbg)_
-
 It wasn’t until the early twentieth century that astronomers, studying the stellar dynamics, were able to connect the dots –  Messier 1 was none other than the remains of the ‘guest star’ that appeared in 1054 AD!  Even today, though vastly fainter, one can look up near the southern horn of the Taurus using binoculars, to see the hazy red patch of dust with its crab-leg-like filaments (as depicted by [Lord Rosse](https://en.wikipedia.org/wiki/William_Parsons,_3rd_Earl_of_Rosse)) never ceases to amaze the stargazers. You are probably wondering what a guest star is, and what exactly happened that only remains of it are visible now. Let us explore further, one doubt at a time :-)
 
 ## What is a Pulsar?
