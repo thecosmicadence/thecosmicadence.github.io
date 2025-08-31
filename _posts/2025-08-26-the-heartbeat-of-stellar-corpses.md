@@ -6,7 +6,6 @@ categories: ["Blogs", "Stellar Tales"]
 pin: true
 tags: ["neutron stars", "astronomy", "pulsars", "betelgeuse", "stellar remnants"] 
 author: 0208   
-image: /asstes/images/contact.png
 description: "In 1967, astronomer Jocelyn Bell detected strange but periodic signals from outer space, briefly mistaking them for extraterrestrial life. She jokingly nicknamed the source ‘Little Green Men’ (LGM-1). These mysterious signals were the first discovered pulsars—cosmic “heartbeats” of stellar corpses."
 
 
