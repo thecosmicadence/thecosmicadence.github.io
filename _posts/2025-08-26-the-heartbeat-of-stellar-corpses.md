@@ -97,5 +97,5 @@ While Jocelyn’s observations played a pivotal role in 20th-century astronomy, 
 
 ---
 
-Pulsars show us that even in death, stars keep a heartbeat. But not all remnants are so kind — some blaze briefly, destructively, like cosmic supervillains. Meet the white dwarf in the next chapter of this stellar tale.
+Pulsars show us that even in death, stars keep a heartbeat. But not all remnants are so kind — some blaze briefly, destructively, like cosmic supervillains. Meet the **_white dwarf_** in the next chapter of this stellar tale.
 
