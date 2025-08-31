@@ -86,6 +86,7 @@ Not quite. Only neutron stars whose magnetic axis is misaligned with their rotat
 
 Over millions of years, pulsars gradually lose rotational energy. Their pulses weaken, and eventually many become “dead” neutron stars — still compact, but no longer emitting detectable beams. These quiet remnants quietly complete the last stage of their stellar afterlife.
 
+---
 
 While Jocelyn’s observations played a pivotal role in 20th-century astronomy, she herself is an inspiring figure. She proved to the world that women are equally entitled to dream and achieve big. Her hard work and perseverance to pursue the cosmos, like that of many other successful women in astronomy, keep fueling me to work my way toward the stars! Here are some interesting reads I found while writing this blog. I highly recommend you check them out:
 
