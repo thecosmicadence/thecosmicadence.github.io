@@ -63,7 +63,7 @@ However, Jocelyn’s supervisor was not convinced that the source could be a rot
 _Pulsar as depicted by NASA. GIF Credits: [NASA](https://nasa.tumblr.com/post/163637443034/five-famous-pulsars-from-the-past-50-years)_
 
 
-## Pulsars:The Living Afterlife
+## Pulsars: The Living Afterlife
 
 But you may still be wondering: how can something so dead appear so alive? Let’s tackle those doubts one by one.
 
