@@ -1,7 +1,7 @@
 ---
 title: "Chasing the Stars: My Journey to the Telescope City of India"
 date: 2026-07-19 23:04:00 +0530
-updated: 2026-07-19 23:04:00 +0530
+updated: 2026-07-19 23:52:00 +0530
 categories: ["Blogs", "Personal Cadence"]
 tags: ["mentorship", "personal-journey", "telescopes", "responsibility"]  
 author: 0208   
