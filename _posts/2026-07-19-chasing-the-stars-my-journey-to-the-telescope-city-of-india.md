@@ -5,7 +5,7 @@ updated: 2026-07-19 23:52:00 +0530
 categories: ["Blogs", "Personal Cadence"]
 tags: ["mentorship", "personal-journey", "telescopes", "responsibility"]  
 author: 0208   
-description: "Are you free to do whatever you want? Or does it cost you something in return? This blog explores my personal journey towards my freedom."
+description: "Do you have a free-will? Or does it cost you something in return? This blog explores my personal journey towards freedom."
 
 ---
 
